@@ -38,8 +38,8 @@
 |---|---|
 | 🥈 2nd Place | Google Datacenter Hackathon 2026 (server assembly + Capture The Flag) |
 | 🏅 Honourable Mention, Top 13 / 117 | NTU SCDS TechFest 2026 Hackathon |
-| 🥈 2nd Place Globally | International Rescue Committee Open Innovation Challenge 2025 |
-| 🥉 3rd Place | Temasek Youth Challenge 2025 |
+| 🥈 2nd Place Globally, USD 2,500 | International Rescue Committee Open Innovation Challenge 2025 |
+| 🥉 3rd Place, SGD 500 | Temasek Youth Challenge 2025 |
 
 ---
 
